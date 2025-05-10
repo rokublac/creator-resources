@@ -3,8 +3,8 @@
   "theme": "palm",
   "name": "Creator Mode by Creobase",
   "colors": {
-    "primary": "#3214de",
-    "light": "#07C983",
+    "primary": "#202ffa",
+    "light": "#5414f7",
     "dark": "#2c39f5"
   },
   "favicon": "/favicon.svg",
@@ -18,7 +18,12 @@
             "pages": [
               "index",
               "01_personal_brand",
-              "development"
+              "02_niche_target_audience",
+              "03_platforms",
+              "04_social_analysis",
+              "05_content_pillars",
+              "06_content_batching",
+              "07_monetizing"
             ]
           },
           {
