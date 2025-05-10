@@ -81,8 +81,8 @@
     }
   },
   "logo": {
-    "light": "/logo/cm-light.svg",
-    "dark": "/logo/cm-dark.svg"
+    "light": "/logo/cm-dark.svg",
+    "dark": "/logo/cm-light.svg"
   },
   "navbar": {
     "links": [
@@ -93,8 +93,8 @@
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
-      "href": "https://dashboard.mintlify.com"
+      "label": "Creobase.com",
+      "href": "https://creobase.com"
     }
   },
   "footer": {
