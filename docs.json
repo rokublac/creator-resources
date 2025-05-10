@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "mint",
+  "theme": "palm",
   "name": "Creator Mode by Creobase",
   "colors": {
-    "primary": "#202ffa",
-    "light": "#3b0cf5",
-    "dark": "#3ae871"
+    "primary": "#475ef5",
+    "light": "#475ef5",
+    "dark": "#475ef5"
   },
   "favicon": "/favicon.svg",
   "navigation": {
@@ -81,8 +81,8 @@
     }
   },
   "logo": {
-    "light": "/logo/cm-dark.svg",
-    "dark": "/logo/cm-light.svg"
+    "light": "/logo/cm-dark.png",
+    "dark": "/logo/cm-light.png"
   },
   "navbar": {
     "links": [
