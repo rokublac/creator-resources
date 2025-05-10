@@ -4,7 +4,7 @@
   "name": "Creator Mode by Creobase",
   "colors": {
     "primary": "#475ef5",
-    "light": "#475ef5",
+    "light": "#5e74ff",
     "dark": "#475ef5"
   },
   "favicon": "/favicon.svg",
@@ -81,8 +81,8 @@
     }
   },
   "logo": {
-    "light": "/logo/cm-dark.png",
-    "dark": "/logo/cm-light.png"
+    "light": "/logo/cm-dark.svg",
+    "dark": "/logo/cm-light.svg"
   },
   "navbar": {
     "links": [
