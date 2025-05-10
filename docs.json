@@ -11,10 +11,10 @@
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Fundamentals",
         "groups": [
           {
-            "group": "Get Started",
+            "group": "Fundamentals",
             "pages": [
               "index",
               "01_personal_brand",
@@ -40,7 +40,7 @@
         ]
       },
       {
-        "tab": "API Reference",
+        "tab": "02 | Brand Outreach",
         "groups": [
           {
             "group": "API Documentation",
