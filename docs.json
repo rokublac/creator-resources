@@ -1,11 +1,11 @@
 {
   "$schema": "https://mintlify.com/docs.json",
-  "theme": "linden",
+  "theme": "palm",
   "name": "Creator Mode by Creobase",
   "colors": {
     "primary": "#3214de",
     "light": "#07C983",
-    "dark": "#15803D"
+    "dark": "#2c39f5"
   },
   "favicon": "/favicon.svg",
   "navigation": {
