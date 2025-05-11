@@ -32,13 +32,19 @@
         "tab": "02 | Brand Outreach",
         "groups": [
           {
-            "group": "API Documentation",
+            "group": "Outreach Resources",
             "pages": [
-              "api-reference/introduction"
+              "outreach/introduction",
+              "outreach/01_building_brand_list",
+              "outreach/02_brand_contact_research",
+              "outreach/03_media_kit_priming",
+              "outreach/04_writing_pitch",
+              "outreach/05_outreach"
+              
             ]
           },
           {
-            "group": "Endpoint Examples",
+            "group": "Templates",
             "pages": [
               "api-reference/endpoint/get",
               "api-reference/endpoint/create",
