@@ -14,7 +14,7 @@
         "tab": "01 | Getting Started",
         "groups": [
           {
-            "group": "Fundamentals",
+            "group": "Getting Started",
             "pages": [
               "index",
               "01_personal_brand",
@@ -24,17 +24,6 @@
               "05_content_pillars",
               "06_content_batching",
               "07_monetizing"
-            ]
-          },
-          {
-            "group": "Essentials",
-            "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/settings",
-              "essentials/navigation",
-              "essentials/reusable-snippets"
             ]
           }
         ]

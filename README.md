@@ -1,3 +1,3 @@
-# Creator resource
+# Creator resources
 
 For creobase.com
